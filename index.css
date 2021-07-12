@@ -147,6 +147,8 @@ hr
     color: aliceblue;
     width: 70%;
     margin: auto;
+    box-shadow: 0px 0px 2px black;
+
 }
 
 #contact
@@ -213,6 +215,8 @@ a:link
     border-radius: 10px;
     cursor: pointer;
     font-weight: 600;
+    box-shadow: 0px 0px 2px black;
+
 }
 #footer
 {
@@ -220,6 +224,8 @@ a:link
     padding: 20px;
     text-align: center;
     margin-bottom: 0%;
+    border-radius: 10px;
+    box-shadow: 0px 0px 2px black;
 }
 @media all and (max-width:1450px)
 {
