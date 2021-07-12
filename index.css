@@ -241,4 +241,9 @@ hr
         width: 350px;
         height: 250px;
     }
+    #gal:hover
+    {
+        width: 355px;
+        height: 255px;
+    }
 }
