@@ -236,4 +236,9 @@ hr
         height: auto;
         font-size: 15px;
     }
+    #gal
+    {
+        width: 350px;
+        height: 250px;
+    }
 }
